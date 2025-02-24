@@ -1,9 +1,8 @@
 p{   
-   
+    
     color: purple;
     text-align: center;
     
-
 
 }
 h1{
@@ -11,3 +10,6 @@ h1{
     color:rgb(183, 0, 255)
 }
 
+body{
+    background-color: bisque;
+}
