@@ -1,11 +1,10 @@
 p{   
    
     color: purple;
+    text-align: center;
 }
 h1{
+    text-align: center;
     color:rgb(183, 0, 255)
 }
 
-body{
-    align-content: center;
-}
