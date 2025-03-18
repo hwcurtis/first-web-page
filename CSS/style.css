@@ -15,6 +15,7 @@ body{
 
 }
 .my-button {
+    
     background-color: #4CAF50; /* Green background */
     border: none; /* Remove borders */
     color: white; /* White text */
@@ -22,8 +23,8 @@ body{
     text-align: center; /* Centered text */
     text-decoration: none; /* Remove underline */
     display: inline-block; /* Make the button inline */
-    font-size: 16px; /* Increase font size */
-    margin: 4px 2px; /* Some margin */
-    cursor: pointer; /* Pointer/hand icon */
+    font-size: 24px; /* Increase font size */
+    margin: 4px 2px; 
+    cursor: pointer; /* Pointer/hand ic
     border-radius: 12px; /* Rounded corners */
 }
